@@ -1,3 +1,4 @@
-# Games
+# Java games
 
-**Rock Paper Scissors**
+* Rock Paper Scissors [✔]
+* Higher or Lower [⚒]
