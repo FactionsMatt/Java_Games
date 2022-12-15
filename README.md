@@ -1,4 +1,5 @@
 # Java games
 
 * Rock Paper Scissors [✔]
-* Higher or Lower [⚒]
+* Higher or Lower [✔]
+* Soon!
